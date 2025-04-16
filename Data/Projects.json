@@ -88,7 +88,7 @@
                     },
                     "title": "CAM",
                     "description": "The climate action map provides Canadians with an interactive way of finding climate projects in their area. It uses the Government of Canada’s open-source web mapping platform RAMP (Angular/JS) to display project data in an interactive format. CAM is an ASP.NET app, that uses the RAMP API to display custom query results.",
-                    "url": "https://climate-change.canada.ca/climate-action-map/App/index?GOCTemplateCulture=en-CA",
+                    "url": "",
                     "urlType": "Live",
                     "repo": "https://github.com/fgpv-vpgf"
                 },               
